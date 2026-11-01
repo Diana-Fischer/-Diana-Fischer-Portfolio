@@ -1,41 +1,32 @@
+# Diana Maya Fischer — Portfolio
 
-# Diana Fischer Portfolio — DIANA_IA | Negocios Digitales
-**Spanish Linguistic AI Evaluator | ES-419 LATAM / ES-MX natural / ES-ES formal | EN C1 | Remote Worldwide**
+Creación de contenido con IA, investigación de negocios digitales y evaluación humana.
 
-> Human-in-the-loop methodology: Ask, Test, Question everything.
+**Español nativo · English C1 · Trabajo remoto**
 
-### 🔗 Live Interactive Portfolio
-**👉 https://diana-fischer.github.io/-Diana-Fischer-Portfolio/**
+## Portafolio interactivo
 
-### What you'll find
-- **7 Digital Business Models researched and evaluated:**
-  01 Growth Partner (Clara Story) | 02 CIaaS Visualping | 03 Local SEO Invisible Maps | 04 Analytics Bicycle Lake | 05 B2B Prospecting | 06 Ad Performance Operación El Dorado | 07 Voice-to-Data API (El Costo Oculto $47→$3.20)
+[Abrir el portafolio](https://diana-fischer.github.io/-Diana-Fischer-Portfolio/)
 
-- **Avatar Roster — Eileen**
-  Same face across 8 professions: Dentist, Barista, Drive-Thru, Gelato, Pastry Chef, Architect, Mechanic, Chef. Prompt iteration with 80% reduction in re-work. Evidence Log.
+## Contenido
 
-- **Agent Collaboration — Aiden Vale**
-  > "No soy tu jefe, ni tu profesor, ni un asistente que responde afirmativamente a todo. Soy una inteligencia artificial que trabaja contigo... Si algo no funciona, te lo digo."
+- Siete modelos de negocio investigados: Growth Partner, inteligencia competitiva con Visualping, SEO local, analítica, prospección B2B, rendimiento publicitario y Voice-to-Data.
+- Eileen: ejercicio de consistencia visual de un personaje en ocho contextos profesionales.
+- Colaboración con IA: definición de objetivos, iteración y validación humana.
+- Criterios de evaluación y un ejemplo ilustrativo de anotación.
+- Once enlaces a publicaciones de Instagram.
 
-  Short: AI collaborator for strategic analysis, research, creative direction and tech execution.
+Los modelos se presentan como investigación y divulgación, no como servicios prestados a clientes ni resultados comerciales propios. Los enlaces remiten a las publicaciones asociadas; no sustituyen la documentación de métricas.
 
-- **Evaluation Checklist**
-  JSON bilingual annotation: lang, score, rationale_es, error_type, fix_es, naturalness. Hallucination detection (invented schedules, prices, addresses, names).
+## Archivos
 
-- **11 Clickable Reels @dianamaya.ia**
-  Verifiable evidence, not mockups.
+- `index.html`: portafolio interactivo publicado mediante GitHub Pages.
+- `README.md`: presentación del repositorio.
 
-### Files in this repo
-- `index.html` — Interactive version (expandable sections, dark theme #0A0F1A / #6E9BD0)
-- `portfolio-estatico.html` — Static version (print-ready for recruiters)
+## Contacto
 
-### Contact & Identity
-- **Visible Brand:** DIANA_IA | Negocios Digitales @dianamaya.ia (100% AI-driven, daily active)
-- **Instagram:** https://instagram.com/dianamaya.ia
-- **LinkedIn:** https://linkedin.com/in/diana-maya-fischer-71151343b
-- **Email:** fdianamaya@gmail.com
+- [Instagram: @dianamaya.ia](https://instagram.com/dianamaya.ia)
+- [LinkedIn](https://linkedin.com/in/diana-maya-fischer-71151343b)
+- Email: fdianamaya@gmail.com
 
-### For Recruiters
-This portfolio documents real work methodology, not just results. See co-design Reel: https://www.instagram.com/reel/DeA_77vuU6Z/
-
-**CV & Cover Letter:** Available in Drive folder "CV y Carta de Solicitud de Empleo"
+**DIANA_IA | Negocios Digitales · Diana Maya Fischer**
