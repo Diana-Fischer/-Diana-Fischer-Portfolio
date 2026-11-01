@@ -5,7 +5,7 @@
 > Human-in-the-loop methodology: Ask, Test, Question everything.
 
 ### 🔗 Live Interactive Portfolio
-**👉 https://TU-USUARIO.github.io/Diana-Fischer-Portfolio/**
+**👉 https://diana-fischer.github.io/-Diana-Fischer-Portfolio/**
 
 ### What you'll find
 - **7 Digital Business Models researched and evaluated:**
